@@ -1,0 +1,4 @@
+{
+  "extends": "./react.json",
+  "include": ["src", "types", "src/test/index.spec.tsx"],
+}
