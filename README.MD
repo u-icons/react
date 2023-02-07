@@ -20,17 +20,17 @@ yarn add uicons-react
 or
 
 ```bash
-npm install --save uicons-react
+npm install uicons-react
 ```
 
 ## Usage
 
-Just import the icons you need, and add them anywhere in your render method. IMPORTANT! your bundle only includes code for the icons you use.
+Just import the icons you need, and add in component or page. IMPORTANT! your bundle only includes code for the icons you use.
 
 ```tsx
 import React from "react";
 import ReactDOM from "react-dom";
-import { Bookmark, BookmarkAdd, BookmarkBlocked } from "uicons-react";
+import { Bookmark, BookmarkAdd, BookmarkBlocked, ArchiveBox } from "uicons-react";
 
 const App = () => {
   return (
@@ -38,6 +38,7 @@ const App = () => {
       <Bookmark />
       <BookmarkAdd color="#fac800" weight="outline" size={32} />
       <BookmarkBlocked className="icon-class" weight="fill" size={32} />
+      <ArchiveBox size={28} weight="custom" customColors={{ outter: '#828282', inner: '#fac800' }} />
     </div>
   );
 };

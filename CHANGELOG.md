@@ -1,5 +1,11 @@
 # uicons-react
 
+## 0.1.5
+
+### Patch Changes
+
+- add some new icons and update README.md
+
 ## 0.1.4
 
 ### Patch Changes
