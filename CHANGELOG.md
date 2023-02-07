@@ -1,5 +1,11 @@
 # uicons-react
 
+## 0.1.2
+
+### Patch Changes
+
+- fix custom color props on BookmarkBlocked icon
+
 ## 0.1.1
 
 ### Patch Changes
