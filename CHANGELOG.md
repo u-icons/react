@@ -1,5 +1,11 @@
 # uicons-react
 
+## 0.1.8
+
+### Patch Changes
+
+- delete commented code
+
 ## 0.1.7
 
 ### Patch Changes
