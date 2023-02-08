@@ -1,3 +1,4 @@
+export { Add } from './icons/warning-check/Add'
 export { ArchiveBox } from './icons/archives-folders/ArchiveBox'
 export { ArchiveBook } from './icons/docs/ArchiveBook'
 export { ArrowsDownUpCircle } from './icons/arrows/ArrowsDownUpCircle'
