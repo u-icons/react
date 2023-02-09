@@ -4,7 +4,7 @@
 
 Uicons is a lib of highly customizable and elegant icons, really. Explore all our icons at [uicons.io](https://uicons.io).
 
-[![NPM](https://img.shields.io/npm/v/uicons-react.svg?style=flat-square)](https://www.npmjs.com/package/uicons-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square)](https://standardjs.com) [![JavaScript Style Guide](https://img.shields.io/npm/l/uicons-react?style=flat-square)](https://github.com/u-icons/react/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/v/uicons-react.svg?style=flat-square)](https://www.npmjs.com/package/uicons-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-yellow.svg?style=flat-square)](https://standardjs.com) [![License](https://img.shields.io/npm/l/uicons-react?style=flat-square)](https://github.com/u-icons/react/blob/main/LICENSE)
 
 [![GitHub stars](https://img.shields.io/github/stars/u-icons/react?color=%237C3AED&style=flat-square)](https://github.com/u-icons/react)
 [![Follow on GitHub](https://img.shields.io/github/followers/u-icons?color=%237C3AED&style=flat-square)](https://github.com/u-icons)
@@ -62,7 +62,7 @@ Icon components accept all props that you can pass to a normal SVG element, incl
 
 ## CSS
 
-All css types and forms are supported, classNames, inline styles and css utility class names, eg utility classes coming from the Tailwind css framework:
+All types of CSS writing are supported, classNames, inline styles and CSS utility class names, for example utility classes coming from the Tailwind CSS framework:
 
 ```tsx
 import { Bookmark, BookmarkAdd, BookmarkBlocked } from "uicons-react";
