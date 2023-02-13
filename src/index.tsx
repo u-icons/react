@@ -1,3 +1,6 @@
+export { IconContext } from './contexts/IconsContext'
+export { IconBase } from './component/Icon'
+
 export { AaveProtocol } from './icons/crypto/AaveProtocol'
 export { Activity } from './icons/finance/Activity'
 export { Add } from './icons/warning-check/Add'
