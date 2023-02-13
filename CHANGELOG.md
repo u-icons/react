@@ -1,5 +1,11 @@
 # uicons-react
 
+## 0.2.1
+
+### Patch Changes
+
+- Add 3 new icons
+
 ## 0.2.0
 
 ### Minor Changes
