@@ -14,7 +14,6 @@ dist
 .env.test.local
 .env.production.local
 icons-view
-CHANGELOG.md
 
 #testing
 coverage
