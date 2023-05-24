@@ -84,7 +84,7 @@ Uicons takes advantage of React Context API to make applying a default style to 
 > **IMPORTANT:** Requires React 16.3 or higher.
 
 ```tsx
-import { IconContext, Bookmark, BookmarkAdd, BookmarkBlocked, ArchiveBox } from "phosphor-react";
+import { IconContext, Bookmark, BookmarkAdd, BookmarkBlocked, ArchiveBox } from "uicons-react";
 
 const App = () => {
   return (
