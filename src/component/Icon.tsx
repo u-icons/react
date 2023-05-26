@@ -1,5 +1,3 @@
-'use client'
-
 import { forwardRef, useContext, ReactNode } from 'react'
 import { IconContext, Icon } from '../contexts/IconsContext'
 import { IconWeight, CustomColors } from '../@types/ContextTypes'
@@ -66,7 +64,7 @@ export const IconBase = forwardRef<SVGSVGElement, IconProps>((props, ref) => {
       xmlns="http://www.w3.org/2000/svg"
       width={size ?? ctxSize}
       height={size ?? ctxSize}
-      fill={color ?? ctxColor}
+      fill="none"
       viewBox="0 0 24 24"
       {...restContext}
       {...restProps}
