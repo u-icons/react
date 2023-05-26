@@ -1,3 +1,5 @@
+'use client'
+
 import { CustomColors, IconWeight } from '../@types/ContextTypes'
 import {
   createContext,

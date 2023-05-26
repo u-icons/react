@@ -1,5 +1,17 @@
 # uicons-react
 
+## 0.2.4
+
+### Patch Changes
+
+- Add 'use client' on Context and IconBase file
+
+## 0.2.3
+
+### Patch Changes
+
+- Fix icon for be compatible with nextjs 13
+
 ## 0.2.2
 
 ### Patch Changes

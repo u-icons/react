@@ -1,3 +1,5 @@
+'use client'
+
 import { forwardRef, useContext, ReactNode } from 'react'
 import { IconContext, Icon } from '../contexts/IconsContext'
 import { IconWeight, CustomColors } from '../@types/ContextTypes'
