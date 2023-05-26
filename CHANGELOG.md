@@ -1,5 +1,11 @@
 # uicons-react
 
+## 0.2.2
+
+### Patch Changes
+
+- Create Google logo
+
 ## 0.2.1
 
 ### Patch Changes
